@@ -4,8 +4,8 @@ import Navbar from './components/Navbar/page'
 export default function Home() {
   return (
     <main>
-      <ComingSoon />
-      {/* <Navbar /> */}
+      {/* <ComingSoon /> */}
+      <Navbar />
     </main>
   )
 }

@@ -8,7 +8,7 @@ const Navbar = async () => {
     <nav className='fixed top-0 right-0 left-0 z-10 flex items-center justify-between md:px-20 px-5 py-3 bg-slate-100 shadow-lg'>
       <div className='flex items-center'>
         <Link href='/'>
-          <div className='md:text-xl text-sm font-bold uppercase bg-gradient-to-r from-fuchsia-600 hover:from-fuchsia-500 to-cyan-600 hover:to-cyan-500 bg-clip-text text-transparent duration-300'>
+          <div className='md:text-xl text-sm font-bold bg-gradient-to-r from-fuchsia-600 hover:from-fuchsia-500 to-cyan-600 hover:to-cyan-500 bg-clip-text text-transparent duration-300'>
             SayNgalam
           </div>
         </Link>
