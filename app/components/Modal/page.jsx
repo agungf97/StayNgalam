@@ -1,4 +1,4 @@
-const Modal = ({ open, closeProps }) => {
+const modal = ({ open, closeProps }) => {
   return (
     <>
       <div
@@ -31,4 +31,4 @@ const Modal = ({ open, closeProps }) => {
   )
 }
 
-export default Modal
+export default modal
