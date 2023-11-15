@@ -1,10 +1,10 @@
 "use client"
 
-import Modal from "@/app/components/Modal/page"
+import Modal from "../../components/Modal/page"
 import { useState } from "react"
 import { BsFacebook, BsYoutube } from "react-icons/bs"
 import { RiInstagramFill } from "react-icons/ri"
-import hero from "@/app/assets/hero.png"
+import hero from "../../assets/hero.png"
 import Image from "next/image"
 
 const ComingSoon = () => {
