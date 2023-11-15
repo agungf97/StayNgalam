@@ -1,5 +1,5 @@
-import ComingSoon from './pages/ComingSoon/page'
-import Navbar from './components/Navbar/page'
+import Navbar from '@/components/Navbar/page'
+import ComingSoon from '../ComingSoon/page'
 
 export default function Home() {
   return (
